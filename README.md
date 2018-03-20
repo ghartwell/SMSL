@@ -5,7 +5,7 @@ Information related to minimal media center setup
 _smsl_q5_pro.irplus.xml_
 SMSL Remote Model:RC-1
 
-Special thanks to reddit user [/r/budgetaudiophile](https://www.reddit.com/r/BudgetAudiophile) and /u/feuri [source](https://www.reddit.com/r/BudgetAudiophile/comments/63taka/smsl_receiver_remote_control_code/dnridd3/), [source file](https://p.feuri.de/WT0Yvm/plain)
+Special thanks to [/r/budgetaudiophile](https://www.reddit.com/r/BudgetAudiophile) and /u/feuri [source](https://www.reddit.com/r/BudgetAudiophile/comments/63taka/smsl_receiver_remote_control_code/dnridd3/), [source file](https://p.feuri.de/WT0Yvm/plain)
 
 
 | CODE | Function |
